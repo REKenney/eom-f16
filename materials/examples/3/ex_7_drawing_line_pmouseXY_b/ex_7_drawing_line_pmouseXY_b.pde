@@ -9,4 +9,3 @@ void setup() {
 void draw() {
   line(mouseX, mouseY, pmouseX, pmouseY);
 }
-

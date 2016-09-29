@@ -15,9 +15,7 @@ void draw() {
    * 255 is opaque
    */
   fill(15,216,168,100);
+  //fill(#EA2B7E, 100);
   ellipse(60,60,20,20);
 }
  
-
-
-

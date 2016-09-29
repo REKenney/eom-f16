@@ -6,11 +6,8 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(255, 200, 10);
   ellipse(x,50,20,20);
   x = x + 1;
 }
  
-
-
-
